@@ -1,4 +1,6 @@
-![VoAI Logo](assets/VoAI-logo.jpg)
+<p align="center">
+  <img src="assets/VoAI-logo.jpg" width="50%">
+</p>
 
 # VoAI 絕好聲創 展示庫
 
